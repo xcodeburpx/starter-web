@@ -9,7 +9,10 @@ Example to show different parts of Git repo
 ## Purpose
 
 Sample website with plenty of files for demos
+Some changes in this section
 
 ## Deployment
+
+Simple project. Can be web server, game, etc.
 
 ## How to Contribute
