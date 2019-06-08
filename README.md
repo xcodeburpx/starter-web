@@ -23,4 +23,4 @@ Fork this repo issue Pull Request review,
 
 ## Copyright
 
-2019 Noob Loob
+2019 Noob Loob, All rights reserved
