@@ -16,3 +16,7 @@ Some changes in this section
 Simple project. Can be web server, game, etc.
 
 ## How to Contribute
+
+## Copyright
+
+2019 Noob Loob
