@@ -17,6 +17,8 @@ Simple project. Can be web server, game, etc.
 
 ## How to Contribute
 
+Fork this repo issue Pull Request review,
+
 ## Copyright
 
 2019 Noob Loob
